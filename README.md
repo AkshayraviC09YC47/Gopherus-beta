@@ -16,12 +16,10 @@ This tool can generate payload for following:
 7.  SMTP      (Port-25)
 
 ## Installation
-``` bash
-chmod +x install.sh
-```
 ```bash
-sudo ./install.sh
+./gopherus-beta
 ```
+This will create a Python 3 virtual environment and prompt for your `sudo` password to create a system-wide symlink, allowing you to run the tool globally using the `gopherus` command.
 
 ## Usage
 |        Command           |        Description             |
