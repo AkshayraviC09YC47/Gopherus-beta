@@ -85,11 +85,11 @@ gopherus --exploit dmpmemcache
 gopherus --exploit smtp
 ```
 ## Screenshots
-![image](./images/tool2.1.png)
-![image](./images/tool2.0.png)
-![image](./images/tool2.2.png)
-![image](./images/tool2.3.png)
-![image](./images/tool2.4.png)
+![image](./modules/images/tool2.1.png)
+![image](./modules/images/tool2.0.png)
+![image](./modules/images/tool2.2.png)  
+![image](./modules/images/tool2.3.png)
+![image](./modules/images/tool2.4.png)
 ## Author
 Tarunkant Gupta (SpyD3r)
 * Website: https://spyclub.tech
